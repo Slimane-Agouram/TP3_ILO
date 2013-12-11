@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP3_ILO/CComplex.cpp"
+            timestampString = "408469360.411766"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "operator =(const Complex&lt;T&gt; &amp; c)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP3_ILO/CComplex.cpp"
+            timestampString = "408470050.214406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "operator *=(const Complex&lt;T&gt; &amp; c)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::CComplex&lt;float&gt;(Complex&lt;float&gt; const&amp;)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.720729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "508"
+                  endingLineNumber = "508"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::CComplex&lt;float&gt;(Complex&lt;float&gt; const&amp;)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.721123"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "503"
+                  endingLineNumber = "503"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP3_ILO/CComplex.h"
+            timestampString = "408470444.050392"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::CComplex(double, double)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.721665"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::CComplex(double, double)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.722109"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::CComplex(double, double)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.72251"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "266">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;float&gt;::CComplex(float, float)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.722932"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;float&gt;::CComplex(float, float)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.723151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "245">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;float&gt;::CComplex(float, float)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.723485"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;int&gt;::CComplex(int, int)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.723905"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;int&gt;::CComplex(int, int)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.724296"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "241">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;int&gt;::CComplex(int, int)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.h"
+                  timestampString = "408471769.724687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP3_ILO/CComplex.cpp"
+            timestampString = "408470475.456508"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::~CComplex()"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.725005"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::~CComplex()"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.725421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;float&gt;::~CComplex()"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.725979"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;float&gt;::~CComplex()"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.726521"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;int&gt;::~CComplex()"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.726946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;int&gt;::~CComplex()"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.727408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP3_ILO/CComplex.cpp"
+            timestampString = "408470896.001896"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "operator +(const CComplex&lt;T&gt; &amp; c)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::CComplex&lt;float&gt;(Complex&lt;float&gt; const&amp;)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.728095"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "508"
+                  endingLineNumber = "508"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CComplex&lt;double&gt;::CComplex&lt;float&gt;(Complex&lt;float&gt; const&amp;)"
+                  moduleName = "TP3_ILO"
+                  urlString = "file:///Users/slimane/Documents/Xcode%20Projects/TP3_ILO/TP3_ILO/CComplex.cpp"
+                  timestampString = "408471769.728691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "503"
+                  endingLineNumber = "503"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

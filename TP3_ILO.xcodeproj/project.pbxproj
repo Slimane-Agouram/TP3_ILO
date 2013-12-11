@@ -7,9 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4E7B98951858A857001F3809 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7B98941858A857001F3809 /* main.cpp */; };
 		4E7B98971858A857001F3809 /* TP3_ILO.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4E7B98961858A857001F3809 /* TP3_ILO.1 */; };
+		4E7B98A81858A8DF001F3809 /* CComplex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7B989D1858A8DF001F3809 /* CComplex.cpp */; };
+		4E7B98A91858A8DF001F3809 /* Complex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7B989F1858A8DF001F3809 /* Complex.cpp */; };
+		4E7B98AA1858A8DF001F3809 /* EComplex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7B98A21858A8DF001F3809 /* EComplex.cpp */; };
+		4E7B98AB1858A8DF001F3809 /* Exception.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7B98A41858A8DF001F3809 /* Exception.cpp */; };
+		4E7B98AC1858A8DF001F3809 /* Makefile in Sources */ = {isa = PBXBuildFile; fileRef = 4E7B98A61858A8DF001F3809 /* Makefile */; };
+		4E7B98AD1858A8DF001F3809 /* TestComplex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7B98A71858A8DF001F3809 /* TestComplex.cpp */; };
+		4E7B98B51858ABA9001F3809 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E7B98B41858ABA9001F3809 /* XCTest.framework */; };
+		4E7B98BB1858ABA9001F3809 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4E7B98B91858ABA9001F3809 /* InfoPlist.strings */; };
+		4E7B98BD1858ABA9001F3809 /* TP3_ILO_Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E7B98BC1858ABA9001F3809 /* TP3_ILO_Tests.m */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4E7B98BF1858ABA9001F3809 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4E7B98891858A857001F3809 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4E7B98901858A857001F3809;
+			remoteInfo = TP3_ILO;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		4E7B988F1858A857001F3809 /* CopyFiles */ = {
@@ -26,8 +44,24 @@
 
 /* Begin PBXFileReference section */
 		4E7B98911858A857001F3809 /* TP3_ILO */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TP3_ILO; sourceTree = BUILT_PRODUCTS_DIR; };
-		4E7B98941858A857001F3809 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		4E7B98961858A857001F3809 /* TP3_ILO.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = TP3_ILO.1; sourceTree = "<group>"; };
+		4E7B989D1858A8DF001F3809 /* CComplex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CComplex.cpp; sourceTree = "<group>"; };
+		4E7B989E1858A8DF001F3809 /* CComplex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CComplex.h; sourceTree = "<group>"; };
+		4E7B989F1858A8DF001F3809 /* Complex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Complex.cpp; sourceTree = "<group>"; };
+		4E7B98A01858A8DF001F3809 /* Complex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Complex.h; sourceTree = "<group>"; };
+		4E7B98A11858A8DF001F3809 /* Doxyfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Doxyfile; sourceTree = "<group>"; };
+		4E7B98A21858A8DF001F3809 /* EComplex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EComplex.cpp; sourceTree = "<group>"; };
+		4E7B98A31858A8DF001F3809 /* EComplex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EComplex.h; sourceTree = "<group>"; };
+		4E7B98A41858A8DF001F3809 /* Exception.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exception.cpp; sourceTree = "<group>"; };
+		4E7B98A51858A8DF001F3809 /* Exception.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Exception.h; sourceTree = "<group>"; };
+		4E7B98A61858A8DF001F3809 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		4E7B98A71858A8DF001F3809 /* TestComplex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TestComplex.cpp; sourceTree = "<group>"; };
+		4E7B98B21858ABA9001F3809 /* TP3_ILO Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TP3_ILO Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E7B98B41858ABA9001F3809 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		4E7B98B81858ABA9001F3809 /* TP3_ILO Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TP3_ILO Tests-Info.plist"; sourceTree = "<group>"; };
+		4E7B98BA1858ABA9001F3809 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4E7B98BC1858ABA9001F3809 /* TP3_ILO_Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TP3_ILO_Tests.m; sourceTree = "<group>"; };
+		4E7B98BE1858ABA9001F3809 /* TP3_ILO Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TP3_ILO Tests-Prefix.pch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +72,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		4E7B98AF1858ABA9001F3809 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E7B98B51858ABA9001F3809 /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -45,6 +87,8 @@
 			isa = PBXGroup;
 			children = (
 				4E7B98931858A857001F3809 /* TP3_ILO */,
+				4E7B98B61858ABA9001F3809 /* TP3_ILO Tests */,
+				4E7B98B31858ABA9001F3809 /* Frameworks */,
 				4E7B98921858A857001F3809 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				4E7B98911858A857001F3809 /* TP3_ILO */,
+				4E7B98B21858ABA9001F3809 /* TP3_ILO Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,10 +105,47 @@
 		4E7B98931858A857001F3809 /* TP3_ILO */ = {
 			isa = PBXGroup;
 			children = (
-				4E7B98941858A857001F3809 /* main.cpp */,
+				4E7B989D1858A8DF001F3809 /* CComplex.cpp */,
+				4E7B989E1858A8DF001F3809 /* CComplex.h */,
+				4E7B989F1858A8DF001F3809 /* Complex.cpp */,
+				4E7B98A01858A8DF001F3809 /* Complex.h */,
+				4E7B98A11858A8DF001F3809 /* Doxyfile */,
+				4E7B98A21858A8DF001F3809 /* EComplex.cpp */,
+				4E7B98A31858A8DF001F3809 /* EComplex.h */,
+				4E7B98A41858A8DF001F3809 /* Exception.cpp */,
+				4E7B98A51858A8DF001F3809 /* Exception.h */,
+				4E7B98A61858A8DF001F3809 /* Makefile */,
+				4E7B98A71858A8DF001F3809 /* TestComplex.cpp */,
 				4E7B98961858A857001F3809 /* TP3_ILO.1 */,
 			);
 			path = TP3_ILO;
+			sourceTree = "<group>";
+		};
+		4E7B98B31858ABA9001F3809 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4E7B98B41858ABA9001F3809 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4E7B98B61858ABA9001F3809 /* TP3_ILO Tests */ = {
+			isa = PBXGroup;
+			children = (
+				4E7B98BC1858ABA9001F3809 /* TP3_ILO_Tests.m */,
+				4E7B98B71858ABA9001F3809 /* Supporting Files */,
+			);
+			path = "TP3_ILO Tests";
+			sourceTree = "<group>";
+		};
+		4E7B98B71858ABA9001F3809 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4E7B98B81858ABA9001F3809 /* TP3_ILO Tests-Info.plist */,
+				4E7B98B91858ABA9001F3809 /* InfoPlist.strings */,
+				4E7B98BE1858ABA9001F3809 /* TP3_ILO Tests-Prefix.pch */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -86,6 +168,24 @@
 			productReference = 4E7B98911858A857001F3809 /* TP3_ILO */;
 			productType = "com.apple.product-type.tool";
 		};
+		4E7B98B11858ABA9001F3809 /* TP3_ILO Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E7B98C11858ABA9001F3809 /* Build configuration list for PBXNativeTarget "TP3_ILO Tests" */;
+			buildPhases = (
+				4E7B98AE1858ABA9001F3809 /* Sources */,
+				4E7B98AF1858ABA9001F3809 /* Frameworks */,
+				4E7B98B01858ABA9001F3809 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4E7B98C01858ABA9001F3809 /* PBXTargetDependency */,
+			);
+			name = "TP3_ILO Tests";
+			productName = "TP3_ILO Tests";
+			productReference = 4E7B98B21858ABA9001F3809 /* TP3_ILO Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -94,6 +194,11 @@
 			attributes = {
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Slimane AGOURAM";
+				TargetAttributes = {
+					4E7B98B11858ABA9001F3809 = {
+						TestTargetID = 4E7B98901858A857001F3809;
+					};
+				};
 			};
 			buildConfigurationList = 4E7B988C1858A857001F3809 /* Build configuration list for PBXProject "TP3_ILO" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -108,20 +213,64 @@
 			projectRoot = "";
 			targets = (
 				4E7B98901858A857001F3809 /* TP3_ILO */,
+				4E7B98B11858ABA9001F3809 /* TP3_ILO Tests */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4E7B98B01858ABA9001F3809 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E7B98BB1858ABA9001F3809 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		4E7B988D1858A857001F3809 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E7B98951858A857001F3809 /* main.cpp in Sources */,
+				4E7B98AD1858A8DF001F3809 /* TestComplex.cpp in Sources */,
+				4E7B98AC1858A8DF001F3809 /* Makefile in Sources */,
+				4E7B98A91858A8DF001F3809 /* Complex.cpp in Sources */,
+				4E7B98A81858A8DF001F3809 /* CComplex.cpp in Sources */,
+				4E7B98AA1858A8DF001F3809 /* EComplex.cpp in Sources */,
+				4E7B98AB1858A8DF001F3809 /* Exception.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4E7B98AE1858ABA9001F3809 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E7B98BD1858ABA9001F3809 /* TP3_ILO_Tests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4E7B98C01858ABA9001F3809 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4E7B98901858A857001F3809 /* TP3_ILO */;
+			targetProxy = 4E7B98BF1858ABA9001F3809 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		4E7B98B91858ABA9001F3809 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4E7B98BA1858ABA9001F3809 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		4E7B98981858A857001F3809 /* Debug */ = {
@@ -206,6 +355,40 @@
 			};
 			name = Release;
 		};
+		4E7B98C21858ABA9001F3809 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TP3_ILO Tests/TP3_ILO Tests-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "TP3_ILO Tests/TP3_ILO Tests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		4E7B98C31858ABA9001F3809 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TP3_ILO Tests/TP3_ILO Tests-Prefix.pch";
+				INFOPLIST_FILE = "TP3_ILO Tests/TP3_ILO Tests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -223,6 +406,15 @@
 			buildConfigurations = (
 				4E7B989B1858A857001F3809 /* Debug */,
 				4E7B989C1858A857001F3809 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E7B98C11858ABA9001F3809 /* Build configuration list for PBXNativeTarget "TP3_ILO Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E7B98C21858ABA9001F3809 /* Debug */,
+				4E7B98C31858ABA9001F3809 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
