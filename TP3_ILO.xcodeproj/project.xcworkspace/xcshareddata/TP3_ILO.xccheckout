@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25025045-CEB4-4359-93A9-B05D3AA22AE9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TP3_ILO</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>31E59CFE-D03E-4DAC-8C17-FDB735252CA3</key>
+		<string>https://github.com/agouram2012/TP3-ILO.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TP3_ILO.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>31E59CFE-D03E-4DAC-8C17-FDB735252CA3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/agouram2012/TP3-ILO.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31E59CFE-D03E-4DAC-8C17-FDB735252CA3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31E59CFE-D03E-4DAC-8C17-FDB735252CA3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TP3_ILO</string>
+		</dict>
+	</array>
+</dict>
+</plist>
